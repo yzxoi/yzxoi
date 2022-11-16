@@ -1,7 +1,7 @@
 # Hi there 👋
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=yzxoi&show_icons=true" />
-  
-<img src="https://metrics.lecoq.io/yzxoi?template=classic&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FShanghai">
-</p>
+- I'm currently bustling with my high school education in Zhejiang, China.
+- Occasionally write some small Projects & Essays in my spare time.
+- Familiar with Basic C++ & Python, just for the Provincial Competitive Programming.
+- Mostly terrible code I've written before, but it works.
+- [My Blog](https://yzxoi.top/), since 2019, mostly recording my training in CP.
