@@ -6,4 +6,4 @@
 - ✍️ Write occasionally; blog since 2019: https://blog.yzxoi.top/
 - 🤖 Interested in Generative AIs and Agents.
 - 🛠️ Before AI emergences, C++ / Python / Matlab / ... (and a lot of “ugly but working” code).
-- 🚀 Now: Leveraging 3B+ monthly tokens 🔥🔥🔥 
+- 🚀 Now: Leveraging 15B+ monthly tokens 🔥🔥🔥 
